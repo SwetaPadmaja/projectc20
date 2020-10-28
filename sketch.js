@@ -21,7 +21,7 @@ function setup() {
 
   
   	wall=createSprite(1300,200, 60, height/2);
-  	wall.shapeColor=color(80,80,80);
+  	wall.shapeColor=color(0,0,255);
 }
 
 
